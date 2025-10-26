@@ -1,0 +1,47 @@
+MIT License
+
+Copyright (c) 2025 [Your Name]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+---
+
+## 免责声明 / Disclaimer
+
+本项目仅供学习和研究使用。使用者需遵守以下条款：
+
+1. 本软件仅用于学习和研究目的，不得用于任何商业用途。
+2. 使用者需遵守《中华人民共和国网络安全法》及相关法律法规。
+3. 使用者需遵守高德地图API服务协议。
+4. 使用者对采集的数据负有保密责任，不得泄露或滥用。
+5. 因使用本软件产生的任何法律责任由使用者自行承担。
+
+This project is for educational and research purposes only. Users must comply 
+with the following terms:
+
+1. This software is for learning and research purposes only and shall not be 
+   used for any commercial purposes.
+2. Users must comply with the Cybersecurity Law of the People's Republic of 
+   China and related laws and regulations.
+3. Users must comply with the Amap API Service Agreement.
+4. Users are responsible for keeping the collected data confidential and shall 
+   not disclose or abuse it.
+5. Users shall bear all legal responsibilities arising from the use of this 
+   software.
+
