@@ -24,7 +24,7 @@
 ### 1. 下载项目
 ```bash
 # 使用Git
-git clone https://github.com/你的用户名/art-training-scraper.git
+git clone https://github.com/915722/art-training-scraper.git
 cd art-training-scraper
 
 # 或直接下载ZIP后解压
@@ -204,19 +204,46 @@ art-training-scraper/
 
 ---
 
+## 💖 支持项目
+
+如果这个项目对你有帮助，可以通过以下方式支持：
+
+### 🌟 给个Star
+点击右上角 ⭐ **Star** 按钮，这是对作者最大的鼓励！
+
+### ☕ 请作者喝咖啡
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="images/wechat-pay.png" width="200" alt="微信赞赏" /><br />
+      <b>💚 微信赞赏</b>
+    </td>
+    <td align="center" width="50%">
+      <img src="images/alipay.png" width="200" alt="支付宝赞赏" /><br />
+      <b>💙 支付宝赞赏</b>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <i>你的支持是我持续更新的动力！🚀</i>
+</p>
+
+### 其他支持方式
+- 🐛 提交 Issue 反馈问题
+- 🔧 提交 Pull Request 改进代码
+- 📢 分享给更多需要的人
+- ⭐ 关注作者：[@915722](https://github.com/915722)
+
+---
+
 ## 🤝 贡献
 
 欢迎提交 Issue 和 Pull Request！
 
 ---
 
-## ⭐ 支持项目
-
-如果这个项目对你有帮助，请给一个 Star ⭐
-
----
-
-**项目主页**: [https://github.com/KuGua/art-training-scraper](https://github.com/915722/art-training-scraper)  
+**项目主页**: https://github.com/915722/art-training-scraper  
 **最后更新**: 2025-10-26  
 **版本**: v1.0
-
