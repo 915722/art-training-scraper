@@ -257,7 +257,7 @@ def main():
     print("=" * 60)
     
     # 使用提供的API Key
-    amap_key = "d7e3918b8b1582ed4b2fcea4f9bd1b62"
+    amap_key = "your_amap_api_key_here"  # 请替换为你的高德API Key
     
     # 创建爬虫实例
     scraper = ShandongTrainingScraper(amap_key)

@@ -154,7 +154,7 @@ class ChinaScraperGUI:
         api_frame.pack(fill=tk.X, pady=5)
         
         ttk.Label(api_frame, text="API Key:", font=("微软雅黑", 9)).pack(anchor=tk.W, pady=2)
-        self.api_key_var = tk.StringVar(value="d127687049259dc6c806bae51df481c1")
+        self.api_key_var = tk.StringVar(value="")
         ttk.Entry(api_frame, textvariable=self.api_key_var, width=45, font=("Consolas", 9)).pack(fill=tk.X, pady=2)
         ttk.Label(api_frame, text="💡 购买流量包：30元/万次请求", foreground="gray", font=("微软雅黑", 8)).pack(anchor=tk.W)
         
