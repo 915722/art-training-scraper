@@ -216,6 +216,6 @@ art-training-scraper/
 
 ---
 
-**项目主页**: https://github.com/你的用户名/art-training-scraper  
+**项目主页**: https://github.com/Ku Gua/art-training-scraper  
 **最后更新**: 2025-10-26  
 **版本**: v1.0
